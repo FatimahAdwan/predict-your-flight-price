@@ -10,6 +10,7 @@
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket, it is a project I decided to do in order to display a model deployment
+http://localhost:8888/view/Desktop/Flight-Price-Prediction/Flight-Price-Prediction-master/templates/home.html
 
 ## Installation
 The Code is written in Python. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
